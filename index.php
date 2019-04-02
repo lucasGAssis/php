@@ -1,6 +1,6 @@
 <?php
 
-echo "Helo Word";
+echo "Hello Word";
 
 
 ?>
